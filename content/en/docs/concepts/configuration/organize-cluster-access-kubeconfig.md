@@ -20,7 +20,7 @@ It does not mean that there is a file named `kubeconfig`.
 By default, `kubectl` looks for a file named `config` in the `$HOME/.kube` directory.
 You can specify other kubeconfig files by setting the `KUBECONFIG` environment
 variable or by setting the
-[`--kubeconfig`](/docs/reference/generated/kubectl/kubectl/) flag.
+[`--kubeconfig`](/docs/reference/generated/kubectl/kubectl-commands#config/) flag.
 
 For step-by-step instructions on creating and specifying kubeconfig files, see
 [Configure Access to Multiple Clusters](/docs/tasks/access-application-cluster/configure-access-multiple-clusters).
